@@ -1,0 +1,6 @@
+﻿  base.c
+c:\users\ux305\desktop\algorithm\algorithm\base.c(535): warning C4101: 'u' :참조되지 않은 지역 변수입니다.
+  execution.c
+c:\users\ux305\desktop\algorithm\algorithm\execution.c(17): warning C4133: '함수': 'int [101][101]'과(와) 'double (*)[101]' 사이의 형식이 호환되지 않습니다.
+  코드를 생성하고 있습니다...
+  algorithm.vcxproj -> C:\Users\UX305\Desktop\algorithm\Debug\algorithm.exe

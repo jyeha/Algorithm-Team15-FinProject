@@ -1,0 +1,35 @@
+﻿  base.c
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\base.c(538): warning C4101: 'u' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\base.c(756): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\base.c(758): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\base.c(763): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\base.c(788): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  execution.c
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(25): warning C4013: 'Connect'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(129): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(138): warning C4013: 'print_path'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(138): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(141): warning C4013: 'check_route'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(156): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(87): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(115): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(186): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\카카오톡 받은 파일\algorithm12\algorithm\execution.c(256): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  2 of 39 functions ( 5.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  algorithm.vcxproj -> C:\Users\user\Documents\카카오톡 받은 파일\algorithm12\Release\algorithm.exe
